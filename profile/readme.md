@@ -1,0 +1,2 @@
+# Spellcast
+Minecraft server
